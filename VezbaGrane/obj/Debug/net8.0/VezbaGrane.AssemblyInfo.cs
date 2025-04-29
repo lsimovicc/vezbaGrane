@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VezbaGrane")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efd214909d103e7774c3bd6d3b1af339ebb8f379")]
 [assembly: System.Reflection.AssemblyProductAttribute("VezbaGrane")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VezbaGrane")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
