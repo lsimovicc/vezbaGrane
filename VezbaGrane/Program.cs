@@ -16,6 +16,9 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.MapControllers();
+
+
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
